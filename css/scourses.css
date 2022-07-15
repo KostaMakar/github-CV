@@ -1,0 +1,5 @@
+.schedule-body > tr:hover {background-color: hotpink;
+color: white;}
+.schedule {
+    border-collapse: collapse;
+border-color: black;}
