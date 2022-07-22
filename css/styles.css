@@ -31,6 +31,7 @@ background-color: #ffffff;}
 
 .section-title {color: var(--title-text-color);}
 /* Features */
+/* .features .title means that title in features will be modified */
 
 .features .title {
     color: var(--title-text-color);
